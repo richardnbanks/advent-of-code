@@ -1,4 +1,4 @@
-# Advent of Code 2023
+# Advent of Code [2023](https://adventofcode.com/2023)
 
 * [Day 1: Trebuchet?!](./solutions/01)
 * [Day 2: Cube Conundrum](./solutions/02)
