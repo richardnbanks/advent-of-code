@@ -47,7 +47,7 @@ func parseList(filename string) [][]int {
 
 func part1() {
 	//lists := parseList("../input/test.txt")
-	lists := parseList("../input/input.txt")
+	lists := parseList("../data/input.txt")
 
 	var distance = []int{}
 	totalDistance := 0
@@ -73,7 +73,7 @@ func part1() {
 
 func part2() {
 	//lists := parseList("../input/test.txt")
-	lists := parseList("../input/input.txt")
+	lists := parseList("../data/input.txt")
 
 	similarity := 0
 
